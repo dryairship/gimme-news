@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/dryairship/gimme-news#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "newsapi": "^2.4.1"
   },
   "type": "module"

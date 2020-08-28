@@ -6,5 +6,7 @@ if (envResult.error) {
 }
 
 export default {
-    newsAPIKey: process.env.NEWSAPI_KEY
+    newsAPIKey: process.env.NEWSAPI_KEY,
+    messengerVerificationToken: process.env.MESSENGER_VERIFY_TOKEN,
+    port: process.env.PORT,
 };
