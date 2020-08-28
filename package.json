@@ -1,0 +1,24 @@
+{
+  "name": "gimme-news",
+  "version": "1.0.0",
+  "description": "A messenger bot to give you news items directly in your inbox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dryairship/gimme-news.git"
+  },
+  "keywords": [
+    "messenger",
+    "express",
+    "news"
+  ],
+  "author": "Priydarshi Singh, Shivangi Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dryairship/gimme-news/issues"
+  },
+  "homepage": "https://github.com/dryairship/gimme-news#readme"
+}
